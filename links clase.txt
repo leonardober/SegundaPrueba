@@ -1,0 +1,77 @@
+https://usergioarboleda-edu-co.zoom.us/j/85197159298          Link clases programacion
+
+https://getbootstrap.com
+
+alt+z para justificar
+ctrl+  maximiza
+ctrl s  guarda
+ctrl+ K+ C  para hacer comentarios
+let variable que puede pedir
+fetch  hace peticion o solicitud
+leonardo.bermudez.at@usa.edu.co              mongodbAtlas
+LeonardoSena16
+
+https://git-scm.com/downloads
+entramos a git bash
+ git --version
+git config --global user.name
+ git config --global user.name "Leonardo Bermudez"
+ git config --global user.email leonardober@gmail.com
+ git config --global core.editor "code --wait"
+ git config --global -e     para abrir el visual
+git config --global core.autocrlf true     CR se inactiva para subir repositorio y se activa para bajar de la nube
+git config -h nos da un listado da   git config options
+ls   da listado de carpetas o directorios donde nos encontramos
+pwd nos dice en que directorio estamos
+cd nombre del directorio ejemplo  cd MisionTic2022
+cd ..   para salirse del directorio
+
+git init se usa una vez durante configuracion inicial de repositorionuevo
+git status muestra estado del repositorio de trabajo.Permite ver los cambios y los de seguimiento
+git add anade cambios al directorio y actualizaciones
+git commit captura cambios ingresados al repositorio
+git branch gestion de ramas, lista ramas,crea,cambia y elimina ramas
+git remote permite ver,crear y eliminar conexiones con otros repositorios
+git push -u origin main una vez ejecutado los archivos sincronizados conOrigin envia al repositorio remoto para verlas alla
+
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/leonardober/SergioGithub.git
+git push -u origin main
+
+
+
+https://desktop.github.com/
+
+mongodb+srv://leonardobermudezat:LeonardoSena16@alexdavid.e9ncqge.mongodb.net/test conexion MongoDb Compass
+alexdavid.e9ncqg mongocompass
+
+LINK: https://atenea.usergioarboleda.edu.co/
+
+USUARIO: leonardo.bermudez.at@usa.edu.co
+
+CONTRASEÑA: Le193750$​​​​​​​  cambiada a
+
+LeonardoSena16 contrasena
+
+Id. de usuario: leonardo.bermudez.at@usa.edu.co
+
+https://britishcouncil-colombia.cmail20.com/t/y-e-pljjluk-djlyiikkhd-r/
+
+Link para descargar MongoDB: https://www.mongodb.com/try/download/compass
+
+Cómo instalar VSC:? 
+https://www.youtube.com/watch?v=X_Z7d04x9-E
+
+https://www.youtube.com/watch?v=cjrt3NilcNw     Fetch API - #JavaScript - Consumir API Publica con JavaScript
+
+https://youtu.be/cjrt3NilcNw
+
+https://youtu.be/cjrt3NilcNw      Fetch
+
+
+https://www.youtube.com/watch?v=G-j5SI7Qitk&t=165s fetch java escript como mostrar datos desde un api

@@ -1,0 +1,56 @@
+ clases sergio Arboleda
+
+
+
+
+
+[22:06, 9/3/2023] AlexHernandezSergioArboledatutor: Muy buenas noches chicos, les comparto las grabaciones de las clases
+[22:06, 9/3/2023] AlexHernandezSergioArboledatutor: https://usergioarboleda-edu-co.zoom.us/rec/play/qnQcGu_XMhka_J497HS6rdLwIiGkDWaJmOIeZoO4B77xqP6Wp85HLFbfbOA3t2P3lTruxQZY1TxjRFos.0OBQM1VAeX3dF-N8?continueMode=true&_x_zm_rtaid=Rbl6uSdEQ52O-Tm7h1UdHA.1678417531307.40939fea93c8a7845d8bb62c766627f0&_x_zm_rhtaid=652
+[22:06, 9/3/2023] AlexHernandezSergioArboledatutor: https://usergioarboleda-edu-co.zoom.us/rec/play/vl36fLzIkLEQIUQApClzCxUcUqVn47tMFHVqabCs4uqj-Igfe7cuv5Th5pPGInIiqA4YgQjHqKk2nbuu.5IrsUshT_qwIYGKY?continueMode=true&_x_zm_rtaid=Rbl6uSdEQ52O-Tm7h1UdHA.1678417531307.40939fea93c8a7845d8bb62c766627f0&_x_zm_rhtaid=652
+[22:06, 9/3/2023] AlexHernandezSergioArboledatutor: https://usergioarboleda-edu-co.zoom.us/rec/play/PZPvOvHuI3I2i3VVAA-5l4KI0ffzMpKOwIzjtCd1sxImZeZnQgtZR0AVDMWmlxb61CsgJMDG8Ws5iSDT.05r0MFLjO06GOhwj?continueMode=true&_x_zm_rtaid=Rbl6uSdEQ52O-Tm7h1UdHA.1678417531307.40939fea93c8a7845d8bb62c766627f0&_x_zm_rhtaid=652
+[22:07, 9/3/2023] +57 322 7295119: Gracias profe
+[22:07, 9/3/2023] AlexHernandezSergioArboledatutor: https://usergioarboleda-edu-co.zoom.us/rec/play/U55l-nAE_srK5VrfuSYKfwcsFespGCMHa9r_QLPudg1he5XKIJ0AXypHqAM1UNKyGkliZW6NkUpLhO-U.5fn5QRCuSzSf58Od?continueMode=true&_x_zm_rtaid=Rbl6uSdEQ52O-Tm7h1UdHA.1678417531307.40939fea93c8a7845d8bb62c766627f0&_x_zm_rhtaid=652
+[22:07, 9/3/2023] AlexHernandezSergioArboledatutor: El de hoy se los estaré enviando más tarde si no a primera hora mañana
+Grabación de la Clase del día de ayer 09/03/2023: 
+
+
+https://usergioarboleda-edu-co.zoom.us/rec/play/fqxVz1_2I3mq7v6FSVxO6aRYePGqMIe4vWic9A8y-YtHwtN2vRfzpu9rdn5RmXOJT8gS8YMMntZkiJ7q.dpvZLLpadWBnjsCj?continueMode=true&_x_zm_rtaid=k-gyUb_wSpe0bGFNVYGOGw.1678496907435.8f7e0c219e770e6a8fffcdc45a0a527f&_x_zm_rhtaid=15
+Grabación de la Clase del día de ayer 09/03/2023: Instalacion MongoDB Compas
+
+
+https://usergioarboleda-edu-co.zoom.us/rec/play/fqxVz1_2I3mq7v6FSVxO6aRYePGqMIe4vWic9A8y-YtHwtN2vRfzpu9rdn5RmXOJT8gS8YMMntZkiJ7q.dpvZLLpadWBnjsCj?continueMode=true&_x_zm_rtaid=k-gyUb_wSpe0bGFNVYGOGw.1678496907435.8f7e0c219e770e6a8fffcdc45a0a527f&_x_zm_rhtaid=15
+
+fetch api  https://youtu.be/cjrt3NilcNw
+
+Grabación de la Clase del día de hoy 10/03/2023  Fetch Api
+
+
+https://usergioarboleda-edu-co.zoom.us/rec/play/oudOZvxrKW-ZejlQ52-6MQa2vOE-v3WAdFtyni65fK8blJ5iLqMB4MfVuLQ8JlNrV7khN9ldTeFd075Y.8NkYL030bZt842z_?continueMode=true&_x_zm_rtaid=5kR-rWvaTKOHLH9FruvlMg.1678509671460.721a0c4d772cecf3462496eda0e76eb9&_x_zm_rhtaid=461
+
+
+
+[22:04, 8/3/2023] AlexHernandezSergioArboledatutor: Link para descargar MongoDB: https://www.mongodb.com/try/download/compass
+[22:05, 8/3/2023] AlexHernandezSergioArboledatutor: Cómo instalar VSC:? 
+https://www.youtube.com/watch?v=X_Z7d04x9-E
+
+
+
+
+TALLER DE BASES DE DATOS
+1. La empresa Netmotion S.A, tiene complicaciones ya que debido al 
+aumento de clientes, el banco de datos que tenían en Microsoft Access, 
+no cumple con las especificaciones requeridas para el almacenamiento de 
+la información confidencial de sus principales compradores.
+Motivo por el cual la empresa, lo está contratando a usted como el 
+Desarrollador Senior asignado de la organización, para realizar las base 
+de datos en MongoDB. Cada uno de las bases de datos debe contener la 
+siguiente información:
+ID NOMBRES APELLIDOS CÉDULA DE CIUDADANÍA
+01 Juan Carlos Unzue Martínez 1090.477.956
+02 María Alejandra Gómez Garrido 1090.488.963
+03 John Andrés Valencia Ortega 1090.488.952
+04 Gerson Camilo Hernandez Suarez 1090488.978
+05 María Isabel Román Salazar 1090.488.912
+06 Steven Santiago Gómez Hernández 1090.477.852
+07 Ahidee Alexandra Hernández Navarro 1090.455.123
+08 Jeison Andrés Rodriguez Correa 1090.483.95
